@@ -1,0 +1,3 @@
+- 👋 Hello, my name is archie and...
+- 👀 I’m interested in code a technology
+- 🌱 I’m currently learning java
